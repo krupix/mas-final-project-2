@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/mas-final-project-2.iml" filepath="$PROJECT_DIR$/mas-final-project-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pgauto.iml" filepath="$PROJECT_DIR$/pgauto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pgauto-api/pgauto-api.iml" filepath="$PROJECT_DIR$/pgauto-api/pgauto-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pgauto-orm/pgauto-orm.iml" filepath="$PROJECT_DIR$/pgauto-orm/pgauto-orm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pgauto-service/pgauto-service.iml" filepath="$PROJECT_DIR$/pgauto-service/pgauto-service.iml" />
     </modules>
   </component>
 </project>
