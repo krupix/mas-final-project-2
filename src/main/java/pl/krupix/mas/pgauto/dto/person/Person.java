@@ -1,31 +1,63 @@
 package pl.krupix.mas.pgauto.dto.person;
 
-import lombok.Data;
+import lombok.Getter;
+import lombok.Setter;
+import pl.krupix.mas.pgauto.util.PeselUtil;
 import pl.krupix.mas.pgauto.dto.data.AdressData;
 import pl.krupix.mas.pgauto.dto.data.ContactData;
+import pl.krupix.mas.pgauto.exception.PeselNotFoundException;
 
+import java.text.ParseException;
 import java.util.Date;
 
 /**
  * Created by krupix on 01.02.2017.
  */
-@Data
+
 public abstract class Person {
 
-    private ContactData contactData;
+    @Getter @Setter private ContactData contactData;
 
-    private AdressData adressData;
+    @Getter @Setter private AdressData adressData;
 
-    private Date birthDate;
+    @Getter @Setter private String name;
 
-    private String name;
+    @Getter @Setter private String surname;
 
-    private String surname;
+    @Getter @Setter private String maidenName;
 
-    private String maidenName;
+    @Setter private String PESEL;
 
-    private String PESEL;
 
-    private Integer age;
+    public String getPESEL() throws PeselNotFoundException {
+
+        if (PESEL != null) {
+            return PESEL;
+        } else {
+            throw new PeselNotFoundException();
+        }
+
+    }
+
+    public Date getBirthDate() throws PeselNotFoundException, ParseException {
+
+        if (PESEL != null) {
+            return PeselUtil.getBirthDate(PESEL);
+        } else {
+            throw new PeselNotFoundException();
+        }
+
+    }
+
+    public Integer getAge() throws PeselNotFoundException, ParseException {
+
+        if (PESEL != null) {
+            return PeselUtil.getAge(PESEL);
+        } else {
+            throw new PeselNotFoundException();
+        }
+
+    }
+
 
 }

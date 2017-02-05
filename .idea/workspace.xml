@@ -1,7 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/person/Client.java" description="import pl.krupix.mas.pgauto.dto.vehicle.Vehicle;" line="9" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0ba891a-525e-4492-b177-93b6a63d79cf" name="Default" comment="" />
+    <list default="true" id="a0ba891a-525e-4492-b177-93b6a63d79cf" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_27.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_10.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_beanshell_bsh_2_0b4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/garage/GarageEmployeeRepairDetails.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/repair/PartsOrder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/vehicle/VehicleRepairDetails.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/exception/ObjectAlreadyAddedException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/exception/ParameterNotFoundException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/exception/PeselNotFoundException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/exception/VINNotFoundException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/util/PeselUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/util/PriceCalculator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/pl/krupix/mas/pgauto/PeselUtilTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/pl/krupix/mas/pgauto/PriceCalculatorTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mas-final-project-2.iml" afterPath="$PROJECT_DIR$/mas-final-project-2.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/Starter.java" afterPath="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/Starter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/garage/Garage.java" afterPath="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/garage/Garage.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/garage/GarageWorkHour.java" afterPath="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/garage/GarageWorkHour.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/person/Client.java" afterPath="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/person/Client.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/person/GarageEmployee.java" afterPath="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/person/GarageEmployee.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/person/Person.java" afterPath="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/person/Person.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/repair/Invoice.java" afterPath="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/repair/Invoice.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/repair/Part.java" afterPath="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/repair/Part.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/repair/Repair.java" afterPath="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/repair/Repair.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/repair/Warehouse.java" afterPath="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/repair/Warehouse.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/vehicle/Car.java" afterPath="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/vehicle/Car.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/vehicle/Motocycle.java" afterPath="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/vehicle/Motocycle.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/vehicle/Vehicle.java" afterPath="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/vehicle/Vehicle.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,57 +58,76 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Painter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/person/Painter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="8" column="5" lean-forward="false" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Tinsmith.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/person/Tinsmith.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="8" column="5" lean-forward="false" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Garage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/garage/Garage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="25" column="12" lean-forward="true" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Company.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/person/Company.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Vehicle.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/vehicle/Vehicle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="9" column="5" lean-forward="false" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+            <state relative-caret-position="1031">
+              <caret line="118" column="26" lean-forward="false" selection-start-line="118" selection-start-column="26" selection-end-line="118" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#752#774#0" expanded="true" />
+                <element signature="e#2819#2820#0" expanded="true" />
+                <element signature="e#2866#2867#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Repair.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/repair/Repair.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="812">
+              <caret line="59" column="65" lean-forward="false" selection-start-line="59" selection-start-column="65" selection-end-line="59" selection-end-column="65" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#596#625#0" expanded="true" />
+                <element signature="e#705#727#0" expanded="true" />
+                <element signature="e#765#766#0" expanded="true" />
+                <element signature="e#796#797#0" expanded="true" />
+                <element signature="e#845#846#0" expanded="true" />
+                <element signature="e#885#886#0" expanded="true" />
+                <element signature="e#921#922#0" expanded="true" />
+                <element signature="e#948#949#0" expanded="true" />
+                <element signature="e#993#994#0" expanded="true" />
+                <element signature="e#1025#1026#0" expanded="true" />
+                <element signature="e#1066#1067#0" expanded="true" />
+                <element signature="e#1095#1096#0" expanded="true" />
+                <element signature="e#1147#1148#0" expanded="true" />
+                <element signature="e#1183#1184#0" expanded="true" />
+                <element signature="e#1639#1640#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PeselUtil.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/util/PeselUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="98">
+              <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PriceCalculator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/util/PriceCalculator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="196">
+              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding>
+                <element signature="e#210#211#0" expanded="true" />
+                <element signature="e#263#264#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PriceCalculatorTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pl/krupix/mas/pgauto/PriceCalculatorTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -75,54 +135,83 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Motocycle.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/vehicle/Motocycle.java">
+      <file leaf-file-name="Invoice.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/repair/Invoice.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Car.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/vehicle/Car.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="9" column="33" lean-forward="false" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+            <state relative-caret-position="322">
+              <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#520#521#0" expanded="true" />
+                <element signature="e#582#583#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BodyTypes.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/vehicle/BodyTypes.java">
+      <file leaf-file-name="PartsOrder.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/repair/PartsOrder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
-              <folding />
+            <state relative-caret-position="266">
+              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#289#290#0" expanded="true" />
+                <element signature="e#351#352#0" expanded="true" />
+                <element signature="e#546#547#0" expanded="true" />
+                <element signature="e#577#578#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MotocycleTypes.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/vehicle/MotocycleTypes.java">
+      <file leaf-file-name="Part.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/repair/Part.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="252">
+              <caret line="18" column="4" lean-forward="false" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#382#383#0" expanded="true" />
+                <element signature="e#444#445#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Client.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Client.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/person/Client.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="8" column="20" lean-forward="false" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-              <folding />
+            <state relative-caret-position="376">
+              <caret line="39" column="31" lean-forward="false" selection-start-line="39" selection-start-column="31" selection-end-line="39" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#649#658#0" expanded="true" />
+                <element signature="e#712#721#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VehicleRepairDetails.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/vehicle/VehicleRepairDetails.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="11" column="15" lean-forward="false" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+              <folding>
+                <element signature="e#296#297#0" expanded="true" />
+                <element signature="e#326#327#0" expanded="true" />
+                <element signature="e#373#374#0" expanded="true" />
+                <element signature="e#411#412#0" expanded="true" />
+                <element signature="e#444#445#0" expanded="true" />
+                <element signature="e#473#474#0" expanded="true" />
+                <element signature="e#517#518#0" expanded="true" />
+                <element signature="e#553#554#0" expanded="true" />
+                <element signature="e#591#592#0" expanded="true" />
+                <element signature="e#625#626#0" expanded="true" />
+                <element signature="e#679#680#0" expanded="true" />
+                <element signature="e#725#726#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -137,6 +226,27 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>PESEL\[\d\]</find>
+      <find>Integer.parseInt</find>
+      <find>Byte.parseByte</find>
+      <find>@Getter @Setter</find>
+      <find>@NotNUll</find>
+      <find>@Setter @Getter</find>
+      <find>int</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Integer.parseInt(PESEL.charAt(0))</replace>
+      <replace>Byte.parseByte</replace>
+      <replace>Character.getNumericValue</replace>
+      <replace>@Setter @Getter</replace>
+      <replace>Integer</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
@@ -145,18 +255,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/ContactData.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/AdressData.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/Person.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/Company.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/Warehouse.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/GarageEmployee.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/OfficeEmployee.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/person/ContractType.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/Garage.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/GarageWorkHour.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/garage/Day.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/garage/GarageWorkHour.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/vehicle/BodyType.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/vehicle/MotocycleType.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/garage/Days.java" />
@@ -164,26 +267,45 @@
         <option value="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/garage/RepairStatuses.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/garage/Repair.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/garage/Invoice.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/repair/Invoice.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/repair/Part.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/repair/Warehouse.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/data/AdressData.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/data/ContactData.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/person/Worker.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/person/GarageEmployee.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/person/OfficeEmployee.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/person/Person.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/person/CarMechanic.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/person/Mechanic.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/person/Painter.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/person/Tinsmith.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/person/Client.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/person/Company.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/garage/Garage.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/vehicle/Vehicle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/exception/PeselNotFoundException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/Starter.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/PeselUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/exception/o.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/exception/VINNotFoundExceptin.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/exception/VINNotFoundException.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pl/krupix/mas/pgauto/PeselUtilTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/person/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/exception/ObjectAlreadyAddedException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/exception/ParameterNotFoundException.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/vehicle/Car.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/vehicle/Motocycle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/repair/Warehouse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/garage/Garage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/garage/GarageWorkHour.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/garage/GarageEmployeeRepair.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/garage/GarageEmployeeRepairDetails.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/person/GarageEmployee.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/vehicle/VehicleRepairDetails.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/vehicle/Vehicle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/repair/Repair.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/util/PeselUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/util/PriceCalculator.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pl/krupix/mas/pgauto/PriceCalculatorTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/repair/Invoice.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/repair/Part.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/repair/PartsOrder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/person/Client.java" />
       </list>
     </option>
   </component>
@@ -215,10 +337,13 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="38" />
-    <option name="y" value="67" />
-    <option name="width" value="1847" />
-    <option name="height" value="1039" />
+    <option name="x" value="103" />
+    <option name="y" value="55" />
+    <option name="width" value="1744" />
+    <option name="height" value="1060" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -235,6 +360,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -260,6 +387,18 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pgauto" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -276,6 +415,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -302,6 +445,66 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="pgauto" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mas-final-project-2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mas-final-project-2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pgauto" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="util" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mas-final-project-2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mas-final-project-2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pgauto" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exception" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -470,29 +673,9 @@
               <option name="myItemId" value="dto" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mas-final-project-2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mas-final-project-2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value=".idea" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -502,8 +685,166 @@
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
   </component>
-  <component name="RunManager" selected="Tomcat Server.Tomcat 8.5.9">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.PriceCalculatorTest.getNetPriceTest">
+    <configuration default="false" name="Starter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="pl.krupix.mas.pgauto.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="pl.krupix.mas.pgauto.Starter" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="mas-final-project-2" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="PeselUtilTest.getAgeTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="pl.krupix.mas.pgauto.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="mas-final-project-2" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="pl.krupix.mas.pgauto" />
+      <option name="MAIN_CLASS_NAME" value="pl.krupix.mas.pgauto.PeselUtilTest" />
+      <option name="METHOD_NAME" value="getAgeTest" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="false" name="PeselUtilTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="pl.krupix.mas.pgauto.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="mas-final-project-2" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="pl.krupix.mas.pgauto" />
+      <option name="MAIN_CLASS_NAME" value="pl.krupix.mas.pgauto.PeselUtilTest" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="false" name="PeselUtilTest.VehicleTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="pl.krupix.mas.pgauto.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="mas-final-project-2" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="pl.krupix.mas.pgauto" />
+      <option name="MAIN_CLASS_NAME" value="pl.krupix.mas.pgauto.PeselUtilTest" />
+      <option name="METHOD_NAME" value="VehicleTest" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="false" name="PriceCalculatorTest.getNetPriceTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="pl.krupix.mas.pgauto.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="mas-final-project-2" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="pl.krupix.mas.pgauto" />
+      <option name="MAIN_CLASS_NAME" value="pl.krupix.mas.pgauto.PriceCalculatorTest" />
+      <option name="METHOD_NAME" value="getNetPriceTest" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
     <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
       <deployment />
       <server-settings />
@@ -919,9 +1260,23 @@
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method />
     </configuration>
-    <list size="1">
+    <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Tomcat Server.Tomcat 8.5.9" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Starter" />
+      <item index="2" class="java.lang.String" itemvalue="TestNG.PeselUtilTest.getAgeTest" />
+      <item index="3" class="java.lang.String" itemvalue="TestNG.PeselUtilTest" />
+      <item index="4" class="java.lang.String" itemvalue="TestNG.PeselUtilTest.VehicleTest" />
+      <item index="5" class="java.lang.String" itemvalue="TestNG.PriceCalculatorTest.getNetPriceTest" />
     </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="TestNG.PriceCalculatorTest.getNetPriceTest" />
+        <item index="1" class="java.lang.String" itemvalue="TestNG.PeselUtilTest" />
+        <item index="2" class="java.lang.String" itemvalue="TestNG.PeselUtilTest.VehicleTest" />
+        <item index="3" class="java.lang.String" itemvalue="TestNG.PeselUtilTest.getAgeTest" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Starter" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -938,45 +1293,68 @@
       <updated>1485985117451</updated>
       <workItem from="1485985121433" duration="3150000" />
       <workItem from="1486153225322" duration="3864000" />
+      <workItem from="1486166053651" duration="855000" />
+      <workItem from="1486221551505" duration="10678000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="PeselUtilTest - 2017.02.05 at 00h 28m 04s.xml">
+      <configuration name="PeselUtilTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PeselUtilTest - 2017.02.05 at 00h 41m 35s.xml">
+      <configuration name="PeselUtilTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PeselUtilTest - 2017.02.05 at 00h 45m 12s.xml">
+      <configuration name="PeselUtilTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PeselUtilTest - 2017.02.05 at 00h 46m 07s.xml">
+      <configuration name="PeselUtilTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PeselUtilTest_getAgeTest - 2017.02.05 at 00h 27m 11s.xml">
+      <configuration name="PeselUtilTest.getAgeTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PriceCalculatorTest_getNetPriceTest - 2017.02.05 at 03h 55m 05s.xml">
+      <configuration name="PriceCalculatorTest.getNetPriceTest" configurationId="TestNG" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7014000" />
+    <option name="totallyTimeSpent" value="18547000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="38" y="67" width="1847" height="1039" extended-state="0" />
-    <editor active="true" />
+    <frame x="103" y="55" width="1744" height="1060" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12299169" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12279671" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.299723" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3997934" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23501763" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -986,17 +1364,21 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
     <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/person/Person.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="98">
           <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1004,7 +1386,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="70">
           <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
+          <folding>
+            <element signature="e#564#565#0" expanded="false" />
+            <element signature="e#591#592#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1012,7 +1397,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="70">
           <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#297#298#0" expanded="false" />
+            <element signature="e#324#325#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1044,9 +1433,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="98">
           <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1064,6 +1451,9 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#752#774#0" expanded="true" />
+            <element signature="e#2819#2820#0" expanded="true" />
+            <element signature="e#2866#2867#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1072,30 +1462,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
           <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/Starter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="5" column="20" lean-forward="false" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/garage/GarageWorkHour.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="9" column="20" lean-forward="false" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/repair/Repair.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding />
         </state>
       </provider>
@@ -1116,40 +1482,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/repair/Invoice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/repair/Part.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="13" column="42" lean-forward="false" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/repair/Warehouse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/data/AdressData.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="98">
@@ -1166,14 +1498,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/garage/Days.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/person/ContractTypes.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="98">
@@ -1182,33 +1506,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/person/GarageEmployee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="9" column="5" lean-forward="false" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#298#299#0" expanded="true" />
-            <element signature="e#325#326#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/person/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
           <caret line="10" column="40" lean-forward="true" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/person/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="11" column="5" lean-forward="false" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1217,9 +1521,9 @@
         <state relative-caret-position="140">
           <caret line="10" column="39" lean-forward="true" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#297#298#0" expanded="true" />
-            <element signature="e#324#325#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#297#298#0" expanded="false" />
+            <element signature="e#324#325#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1234,28 +1538,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/person/Painter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
+        <state relative-caret-position="98">
           <caret line="8" column="5" lean-forward="false" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/person/Tinsmith.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
+        <state relative-caret-position="98">
           <caret line="8" column="5" lean-forward="false" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/person/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="8" column="20" lean-forward="false" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
           <folding />
         </state>
       </provider>
@@ -1263,18 +1555,8 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/person/Company.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
-          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/garage/Garage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="25" column="12" lean-forward="true" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1294,30 +1576,345 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/vehicle/Vehicle.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="9" column="5" lean-forward="false" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="27" column="21" lean-forward="false" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/exception/VINNotFoundException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding>
+            <element signature="e#248#249#0" expanded="true" />
+            <element signature="e#278#279#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/Starter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="14" column="24" lean-forward="false" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pl/krupix/mas/pgauto/PeselUtilTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/vehicle/Motocycle.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/person/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state relative-caret-position="139">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/exception/PeselNotFoundException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/exception/ObjectAlreadyAddedException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="5" column="40" lean-forward="false" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+          <folding>
+            <element signature="e#252#253#0" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/exception/ParameterNotFoundException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="12" column="5" lean-forward="false" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <element signature="e#249#250#0" expanded="true" />
+            <element signature="e#305#306#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/vehicle/Car.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="9" column="33" lean-forward="false" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        <state relative-caret-position="462">
+          <caret line="33" column="5" lean-forward="false" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1304#1305#0" expanded="true" />
+            <element signature="e#1335#1336#0" expanded="true" />
+            <element signature="e#1385#1386#0" expanded="true" />
+            <element signature="e#1425#1426#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/vehicle/Motocycle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1359#1360#0" expanded="true" />
+            <element signature="e#1386#1387#0" expanded="true" />
+            <element signature="e#1434#1435#0" expanded="true" />
+            <element signature="e#1466#1467#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/repair/Warehouse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="24" column="20" lean-forward="false" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/garage/Garage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="28" column="41" lean-forward="false" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
+          <folding>
+            <element signature="e#563#579#0" expanded="true" />
+            <element signature="e#636#646#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/garage/Days.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/garage/GarageWorkHour.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="15" column="26" lean-forward="false" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+          <folding>
+            <element signature="e#275#276#0" expanded="true" />
+            <element signature="e#311#312#0" expanded="true" />
+            <element signature="e#341#342#0" expanded="true" />
+            <element signature="e#377#378#0" expanded="true" />
+            <element signature="e#408#409#0" expanded="true" />
+            <element signature="e#457#458#0" expanded="true" />
+            <element signature="e#497#498#0" expanded="true" />
+            <element signature="e#534#535#0" expanded="true" />
+            <element signature="e#566#567#0" expanded="true" />
+            <element signature="e#617#618#0" expanded="true" />
+            <element signature="e#659#660#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/garage/GarageEmployeeRepairDetails.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#444#445#0" expanded="true" />
+            <element signature="e#481#482#0" expanded="true" />
+            <element signature="e#549#550#0" expanded="true" />
+            <element signature="e#601#602#0" expanded="true" />
+            <element signature="e#634#635#0" expanded="true" />
+            <element signature="e#663#664#0" expanded="true" />
+            <element signature="e#707#708#0" expanded="true" />
+            <element signature="e#743#744#0" expanded="true" />
+            <element signature="e#783#784#0" expanded="true" />
+            <element signature="e#821#822#0" expanded="true" />
+            <element signature="e#881#882#0" expanded="true" />
+            <element signature="e#935#936#0" expanded="true" />
+            <element signature="e#973#974#0" expanded="true" />
+            <element signature="e#1009#1010#0" expanded="true" />
+            <element signature="e#1065#1066#0" expanded="true" />
+            <element signature="e#1115#1116#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/person/GarageEmployee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="25" column="62" lean-forward="false" selection-start-line="25" selection-start-column="62" selection-end-line="25" selection-end-column="62" />
+          <folding>
+            <element signature="e#466#495#0" expanded="true" />
+            <element signature="e#689#690#0" expanded="true" />
+            <element signature="e#768#769#0" expanded="true" />
+            <element signature="e#812#813#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/vehicle/VehicleRepairDetails.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="11" column="15" lean-forward="false" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+          <folding>
+            <element signature="e#296#297#0" expanded="true" />
+            <element signature="e#326#327#0" expanded="true" />
+            <element signature="e#373#374#0" expanded="true" />
+            <element signature="e#411#412#0" expanded="true" />
+            <element signature="e#444#445#0" expanded="true" />
+            <element signature="e#473#474#0" expanded="true" />
+            <element signature="e#517#518#0" expanded="true" />
+            <element signature="e#553#554#0" expanded="true" />
+            <element signature="e#591#592#0" expanded="true" />
+            <element signature="e#625#626#0" expanded="true" />
+            <element signature="e#679#680#0" expanded="true" />
+            <element signature="e#725#726#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/repair/Repair.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="812">
+          <caret line="59" column="65" lean-forward="false" selection-start-line="59" selection-start-column="65" selection-end-line="59" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#596#625#0" expanded="true" />
+            <element signature="e#705#727#0" expanded="true" />
+            <element signature="e#765#766#0" expanded="true" />
+            <element signature="e#796#797#0" expanded="true" />
+            <element signature="e#845#846#0" expanded="true" />
+            <element signature="e#885#886#0" expanded="true" />
+            <element signature="e#921#922#0" expanded="true" />
+            <element signature="e#948#949#0" expanded="true" />
+            <element signature="e#993#994#0" expanded="true" />
+            <element signature="e#1025#1026#0" expanded="true" />
+            <element signature="e#1066#1067#0" expanded="true" />
+            <element signature="e#1095#1096#0" expanded="true" />
+            <element signature="e#1147#1148#0" expanded="true" />
+            <element signature="e#1183#1184#0" expanded="true" />
+            <element signature="e#1639#1640#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/util/PeselUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/util/PriceCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <element signature="e#210#211#0" expanded="true" />
+            <element signature="e#263#264#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pl/krupix/mas/pgauto/PriceCalculatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/repair/Invoice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#520#521#0" expanded="true" />
+            <element signature="e#582#583#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/repair/Part.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="18" column="4" lean-forward="false" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#382#383#0" expanded="true" />
+            <element signature="e#444#445#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/repair/PartsOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#289#290#0" expanded="true" />
+            <element signature="e#351#352#0" expanded="true" />
+            <element signature="e#546#547#0" expanded="true" />
+            <element signature="e#577#578#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/vehicle/Vehicle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1031">
+          <caret line="118" column="26" lean-forward="false" selection-start-line="118" selection-start-column="26" selection-end-line="118" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#752#774#0" expanded="true" />
+            <element signature="e#2819#2820#0" expanded="true" />
+            <element signature="e#2866#2867#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/krupix/mas/pgauto/dto/person/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="39" column="31" lean-forward="false" selection-start-line="39" selection-start-column="31" selection-end-line="39" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#649#658#0" expanded="true" />
+            <element signature="e#712#721#0" expanded="true" />
           </folding>
         </state>
       </provider>
