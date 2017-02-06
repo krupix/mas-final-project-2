@@ -64,13 +64,16 @@ public class ApplicationConfiguration {
     }
 
     @Bean
-    public Controller createController() {
-        return new Controller();
+    public ApplicationController createController() {
+        ApplicationController controller = new ApplicationController();
+//        controller.setGarageDataProvider(new GarageDataProviderImpl());
+        return controller;
     }
 
     private Properties additionalProperties() {
         Properties properties = new Properties();
-        properties.setProperty("hibernate.hbm2ddl.auto", "create-drop");
+//        properties.setProperty("hibernate.hbm2ddl.auto", "create-drop");
+        properties.setProperty("hibernate.hbm2ddl.auto", "update");
         properties.setProperty("hibernate.dialect", "org.hibernate.dialect.MySQL5Dialect");
         return properties;
     }

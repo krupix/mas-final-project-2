@@ -8,6 +8,8 @@ import lombok.Data;
 @Data
 public class ContactDataDTO {
 
+    private Long id;
+
     private String email;
 
     private String mobileNumber;

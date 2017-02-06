@@ -3,6 +3,7 @@ package pl.krupix.mas.pgauto.api.dto.repair;
 import pl.krupix.mas.pgauto.api.exception.ParameterNotFoundException;
 import pl.krupix.mas.pgauto.api.util.PriceCalculator;
 
+import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 import java.util.TreeMap;
@@ -14,12 +15,12 @@ public class PartsOrderDTO {
 
     private Integer netPrice;
 
-    private List<PartDTO> partDTOList;
+    private List<PartDTO> partDTOList = new ArrayList<PartDTO>();
 
     private Map<String, InvoiceDTO> invoiceMap = new TreeMap<String, InvoiceDTO>();
 
 
-    private void addInvoice(InvoiceDTO invoiceDTO) {
+    public void addInvoice(InvoiceDTO invoiceDTO) {
 
         if (!invoiceMap.containsKey(invoiceDTO.getNumber())) {
             invoiceMap.put(invoiceDTO.getNumber(), invoiceDTO);
@@ -28,7 +29,7 @@ public class PartsOrderDTO {
 
     }
 
-    private InvoiceDTO findInvoice(String number) throws ParameterNotFoundException {
+    public InvoiceDTO findInvoice(String number) throws ParameterNotFoundException {
 
         if (invoiceMap.containsKey(number)) {
             return invoiceMap.get(number);

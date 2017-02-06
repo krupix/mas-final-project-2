@@ -18,6 +18,8 @@ public class RepairDTO {
 
     private static Integer partsIncomingsPercent = 30;
 
+    private Long id;
+
     private Integer netPrice;
 
     private RepairTypes type;
@@ -50,6 +52,13 @@ public class RepairDTO {
 
     }
 
+    public Long getId() {
+        return id;
+    }
+
+    public void setId(Long id) {
+        this.id = id;
+    }
 
     public Integer getNetPrice() {
         return netPrice;

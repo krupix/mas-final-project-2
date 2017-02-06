@@ -11,6 +11,8 @@ import java.util.Date;
  */
 public class InvoiceDTO {
 
+    private Long id;
+
     private Integer netPrice;
 
     private Date createDate;
@@ -85,5 +87,14 @@ public class InvoiceDTO {
 
     public void setPartsOrderDTO(PartsOrderDTO partsOrderDTO) {
         this.partsOrderDTO = partsOrderDTO;
+    }
+
+
+    public Long getId() {
+        return id;
+    }
+
+    public void setId(Long id) {
+        this.id = id;
     }
 }

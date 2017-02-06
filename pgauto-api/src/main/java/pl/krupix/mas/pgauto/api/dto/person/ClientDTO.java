@@ -14,6 +14,8 @@ import java.util.Vector;
  */
 public class ClientDTO extends PersonDTO {
 
+    private Long id;
+
     private static HashSet<VehicleDTO> allVehicleDTOS = new HashSet<VehicleDTO>();
 
     private Vector<VehicleDTO> vehicleDTOS = new Vector<VehicleDTO>();
@@ -71,6 +73,14 @@ public class ClientDTO extends PersonDTO {
             allVehicleDTOS.add(motocycleDTO);
         }
 
+    }
+
+    public Long getId() {
+        return id;
+    }
+
+    public void setId(Long id) {
+        this.id = id;
     }
 
     public static HashSet<VehicleDTO> getAllVehicleDTOS() {

@@ -9,6 +9,8 @@ import java.util.List;
  */
 public class PartDTO {
 
+    private Long id;
+
     private Integer netPrice;
 
     private String manufacturer;
@@ -18,6 +20,22 @@ public class PartDTO {
     private WarehouseDTO warehouseDTO;
 
 
+    public String[] toRow() {
+        Float price = ((float)netPrice) / 100;
+        String[] t = new String[3];
+        t[0] = manufacturer;
+        t[1] = price.toString();
+        return t;
+    }
+
+
+    public Long getId() {
+        return id;
+    }
+
+    public void setId(Long id) {
+        this.id = id;
+    }
 
     public Integer getGrossPrice() {
         return PriceCalculator.getGrossPrice(netPrice);

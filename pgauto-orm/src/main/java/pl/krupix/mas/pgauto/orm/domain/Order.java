@@ -18,14 +18,10 @@ public class Order {
     private Long id;
 
     @ManyToOne(cascade = CascadeType.DETACH)
-    @JoinColumn(name = "GARAGE_EMPLOYEE_ID", nullable = false)
-    private Part part;
-
-    @ManyToOne(cascade = CascadeType.DETACH)
     @JoinColumn(name = "REPAIR_ID", nullable = false)
     private Repair repair;
 
-    @ManyToOne(cascade = CascadeType.DETACH)
+    @ManyToOne(cascade = CascadeType.ALL)
     @JoinColumn(name = "INVOICE_ID", nullable = false)
     private Invoice invoice;
 

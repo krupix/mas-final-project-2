@@ -10,6 +10,8 @@ import java.util.List;
  */
 public class WarehouseDTO {
 
+    private Long id;
+
     private AdressDataDTO adressDataDTO;
 
     private ContactDataDTO contactDataDTO;
@@ -20,4 +22,51 @@ public class WarehouseDTO {
 
     private List<PartDTO> partDTOS;
 
+    public Long getId() {
+        return id;
+    }
+
+    public void setId(Long id) {
+        this.id = id;
+    }
+
+    public AdressDataDTO getAdressDataDTO() {
+        return adressDataDTO;
+    }
+
+    public void setAdressDataDTO(AdressDataDTO adressDataDTO) {
+        this.adressDataDTO = adressDataDTO;
+    }
+
+    public ContactDataDTO getContactDataDTO() {
+        return contactDataDTO;
+    }
+
+    public void setContactDataDTO(ContactDataDTO contactDataDTO) {
+        this.contactDataDTO = contactDataDTO;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public Integer getDiscount() {
+        return discount;
+    }
+
+    public void setDiscount(Integer discount) {
+        this.discount = discount;
+    }
+
+    public List<PartDTO> getPartDTOS() {
+        return partDTOS;
+    }
+
+    public void setPartDTOS(List<PartDTO> partDTOS) {
+        this.partDTOS = partDTOS;
+    }
 }

@@ -11,16 +11,16 @@ import java.util.Date;
  */
 public class CarDTO extends VehicleDTO {
 
-    private BodyType bodyType;
+    private BodyTypes bodyType;
 
-    public CarDTO(String manufacturer, String model, String registrationNumber, Integer engingeCapacity, Long mileage, String fuelType, Date productionDate, String VIN, BodyType bodyType) {
+    public CarDTO(String manufacturer, String model, String registrationNumber, Integer engingeCapacity, Long mileage, String fuelType, Date productionDate, String VIN, BodyTypes bodyType) {
         super(manufacturer, model, registrationNumber, engingeCapacity, mileage, fuelType, productionDate, VIN);
         this.bodyType = bodyType;
     }
 
 
 
-    public static CarDTO createCar(ClientDTO clientDTO, String manufacturer, String model, String registrationNumber, Integer engingeCapacity, Long mileage, String fuelType, Date productionDate, String VIN, BodyType bodyType) throws ParameterNotFoundException {
+    public static CarDTO createCar(ClientDTO clientDTO, String manufacturer, String model, String registrationNumber, Integer engingeCapacity, Long mileage, String fuelType, Date productionDate, String VIN, BodyTypes bodyType) throws ParameterNotFoundException {
 
         if (clientDTO == null) {
             throw new ParameterNotFoundException("clientDTO");
@@ -33,11 +33,11 @@ public class CarDTO extends VehicleDTO {
     }
 
 
-    public BodyType getBodyType() {
+    public BodyTypes getBodyType() {
         return bodyType;
     }
 
-    public void setBodyType(BodyType bodyType) {
+    public void setBodyType(BodyTypes bodyType) {
         this.bodyType = bodyType;
     }
 }

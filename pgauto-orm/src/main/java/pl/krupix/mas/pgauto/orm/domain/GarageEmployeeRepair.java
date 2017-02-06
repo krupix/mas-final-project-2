@@ -3,6 +3,7 @@ package pl.krupix.mas.pgauto.orm.domain;
 import lombok.Data;
 
 import javax.persistence.*;
+import java.util.Date;
 
 /**
  * Created by krupix on 05.02.2017.
@@ -24,5 +25,11 @@ public class GarageEmployeeRepair {
     @ManyToOne(cascade = CascadeType.DETACH)
     @JoinColumn(name = "REPAIR_ID", nullable = false)
     private Repair repair;
+
+    @Column(name = "START_DATE", nullable = false)
+    private Date startRepairDate;
+
+    @Column(name = "END_DATE")
+    private Date endRepairDate;
 
 }

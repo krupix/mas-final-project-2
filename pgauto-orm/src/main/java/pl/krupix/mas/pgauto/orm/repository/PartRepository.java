@@ -1,0 +1,17 @@
+package pl.krupix.mas.pgauto.orm.repository;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+import pl.krupix.mas.pgauto.orm.domain.Part;
+import pl.krupix.mas.pgauto.orm.domain.Warehouse;
+
+import java.util.List;
+
+/**
+ * Created by krupix on 05.02.2017.
+ */
+public interface PartRepository extends JpaRepository<Part, Long> {
+
+    List<Part> findByWarehouse(Warehouse warehouse);
+
+    List<Part> findByManufacturer(String partName);
+}

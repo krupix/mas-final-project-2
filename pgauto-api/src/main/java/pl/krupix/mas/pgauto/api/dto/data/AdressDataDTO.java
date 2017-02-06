@@ -8,6 +8,8 @@ import lombok.Data;
 @Data
 public class AdressDataDTO {
 
+    private Long id;
+
     private String zipCode;
 
     private String city;

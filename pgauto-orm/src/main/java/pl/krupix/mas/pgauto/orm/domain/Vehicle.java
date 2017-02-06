@@ -8,9 +8,10 @@ import java.util.Date;
 /**
  * Created by krupix on 05.02.2017.
  */
+@Entity
+@Inheritance(strategy = InheritanceType.JOINED)
 @Table(name = "VEHICLES")
 @Data
-@MappedSuperclass
 public abstract class Vehicle {
 
     @Id
@@ -42,6 +43,9 @@ public abstract class Vehicle {
     @Column(name = "VIN")
     private String VIN;
 
+    @ManyToOne(cascade = CascadeType.DETACH)
+    @JoinColumn(name = "CLIENT_ID", nullable = false)
+    private Client client;
 
 
 }
