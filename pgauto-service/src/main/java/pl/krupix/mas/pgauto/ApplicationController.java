@@ -72,6 +72,7 @@ public class ApplicationController {
 
     private void addListeners() {
 
+/* Listener do wyświetlenia danych nt. części w hurtowni */
         view.getViewPartsCatalogButton().addActionListener( new ActionListener() {
 
             public void actionPerformed(ActionEvent e) {
@@ -79,6 +80,7 @@ public class ApplicationController {
 
                 WarehouseDTO warehouseDTO = garageDataProvider.getWarehouseByName((String)view.getWarehousesComboBox().getSelectedItem());
                 List<VehicleRepairDetailsDTO> vehicelRepairlDetails = garageDataProvider.getVehicelRepairlDetails();
+
                 view.initPartsCatalogView(warehouseDTO);
 
                 for (VehicleRepairDetailsDTO dto : vehicelRepairlDetails) {
@@ -92,6 +94,8 @@ public class ApplicationController {
 
         });
 
+
+/* Listener do guziku BACK */
         view.getBackButton().addActionListener(new ActionListener() {
                public void actionPerformed(ActionEvent e) {
                    logger.info("Action: BACK");
@@ -108,6 +112,7 @@ public class ApplicationController {
         );
 
 
+/* Listener do uzupełnienia danych o częściach  */
         if (view.getPartsTable() != null &&  view.getPartsTable().getSelectionModel() != null ) {
 
             view.getPartsTable().getSelectionModel().addListSelectionListener(new ListSelectionListener() {
@@ -128,6 +133,7 @@ public class ApplicationController {
         }
 
 
+/* Listener do złożenia zamówienia i wyświetlenia podsumowania zamówienia */
         if (view.getPlaceOrderButton() != null) {
 
             view.getPlaceOrderButton().addActionListener(new ActionListener() {
@@ -147,8 +153,6 @@ public class ApplicationController {
                         }
                     }
 
-
-
                     view.initOrderConfirmView(partDTO, count, orderedRepair.getVehicleDTO().getManufacturer() + " " + orderedRepair.getVehicleDTO().getRegistrationNumber());
                     view.repaint();
                     addListeners();
@@ -160,6 +164,8 @@ public class ApplicationController {
 
         }
 
+
+/* Listener do potwierdzenia i złożenia zmówienia */
         if (view.getConfirmOrderButton() != null) {
 
             view.getConfirmOrderButton().addActionListener(new ActionListener() {
@@ -200,6 +206,7 @@ public class ApplicationController {
         }
 
 
+/* Listener do zmian opisu hurtowni */
         if (view.getWarehousesComboBox() != null) {
 
             view.getWarehousesComboBox().addActionListener(new ActionListener() {
